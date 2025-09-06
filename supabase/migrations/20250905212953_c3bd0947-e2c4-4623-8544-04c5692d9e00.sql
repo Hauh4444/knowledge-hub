@@ -1,0 +1,6 @@
+-- Update test user bio with longer content
+UPDATE profiles 
+SET bio = 'I am a passionate technology professional with over 8 years of experience in software development, system architecture, and team leadership. My journey began in computer science where I discovered my love for solving complex problems through elegant code solutions. Throughout my career, I have worked with diverse teams across various industries, from startups to enterprise-level organizations, always focusing on delivering high-quality solutions that make a real impact.
+
+My expertise spans multiple programming languages and frameworks, with particular strength in full-stack development, cloud infrastructure, and agile methodologies. I believe in the power of continuous learning and knowledge sharing, which is why I actively contribute to open-source projects and mentor junior developers. When I''m not coding, you can find me exploring new technologies, writing technical articles, or hiking in the mountains with my family. I''m always excited to collaborate on innovative projects that push the boundaries of what''s possible with technology.'
+WHERE name = 'Test User' AND id = 'ff7e510a-7682-411e-af2c-b3a7b68a21d2';
