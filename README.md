@@ -6,7 +6,7 @@ A collaborative knowledge platform for professionals that combines the best of N
 
 ## Live Demo
 
-[View Live Application](https://main.dqmj7t8wgu1v0.amplifyapp.com/dashboard/)
+[View Live Application](https://www.knowledgehubpro.org/)
 
 ## Test Login Credentials
 
